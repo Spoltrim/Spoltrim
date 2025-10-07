@@ -5,8 +5,20 @@
 #### I am a French IT student trying to make code that compiles and survive.
 #### Hobbies : Music , Running , Ride a bike.
 #### Skills : Listen to Tate Mcrae constantly , make some code actually work , always tired.
+En français :
+#### I am a French IT student trying to make code that compiles and survive.
+#### Hobbies : Music , Running , Ride a bike.
+#### Skills : Listen to Tate Mcrae constantly , make some code actually work , always tired.
 
-## language i know
+## Pin Projects
+Principalement des projets tutorets , multi développeurs fait durant l'année Scolaire 2024-2025 sauf le projet de Bot Discord
+- [Donjon et dragons]()
+  terminal-based game (Java).
+- 
+- 
+- [Bot Discord]()
+ A small discord bot can play music (Discord.js). 
+## Languages i know
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,discordjs,sqlite,java)](https://skillicons.dev)
