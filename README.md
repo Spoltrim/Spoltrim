@@ -13,11 +13,11 @@ En français :
 
 ## Pin Projects
 Principalement des projets tutorés, réalisés en multi-développeurs durant l'année scolaire 2024-2025 sauf le projet de Bot Discord
-- [Donjon et dragons](https://github.com/Spoltrim/DND)
+- [Donjon et dragons](https://github.com/Spoltrim/DOOnjon-Dragon)
 terminal-based game (Java).
 - [Yam's](https://github.com/Spoltrim/Yams)
 Terminal based Yam's game (C#,HTML,CSS,Javascript). 
-- [Pompiers](https://github.com/Spoltrim/Pompiers)
+- [Pompiers](https://github.com/Spoltrim/Pompier)
 Gestionnaire de pompiers (C#,.NET). 
 - [Bot Discord](https://github.com/Spoltrim/DiscordBot-Otter)
 A small discord bot can play music (Discord.js).
